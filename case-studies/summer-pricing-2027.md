@@ -1,22 +1,34 @@
-# Summer Pricing 2027 | Educational Campaign Page
+# Summer Pricing 2027 | Workshop Campaign Landing Page
 
-**Category:** Educational content · Seasonal hospitality campaign
+**Type:** Event/workshop landing page · Educational campaign · Hospitality pricing
 
-**Live page:** [Alta temporada começa agora: como montar seu tarifário de verão 2027](https://www.hqbeds.com.br/alta-temporada-comeca-agora--como-montar-seu-tarifario-de-verao-2027)
+**Published page:** [Alta temporada começa agora: como montar seu tarifário de verão 2027](https://www.hqbeds.com.br/alta-temporada-comeca-agora--como-montar-seu-tarifario-de-verao-2027)
 
-## Business context
-A campaign page about preparing accommodation pricing for the upcoming summer season. The subject and campaign intent are inferred from the publicly supplied page title and URL.
+## Business challenge
 
-## Portfolio relevance
-An example of turning a time-sensitive hospitality topic into a destination page designed for educational engagement and potential commercial discovery.
+Explain the value of a workshop about turning seasonal demand signals into concrete accommodation pricing decisions.
 
-## Verification status
-The live page could not be retrieved for detailed inspection at the time of writing. **Its actual sections, code, interactions, CTA mechanics, and performance are not claimed here.**
+## Observed experience
 
-## Next evidence to add
-- Approved screenshots showing the complete page.
-- The developer's implementation notes.
-- Confirmed stack, responsive behavior, and integrations.
-- Any publishable business outcome.
+The developer-provided screenshot confirms a **workshop agenda** section with:
 
-[Back to portfolio](../README.md)
+- A prominent “Neste workshop” eyebrow and clear typographic hierarchy.
+- Six numbered agenda cards organized in a two-column desktop grid.
+- Topics including demand acceleration, revenue management, pricing strategy, seasonal segmentation, and missed revenue opportunities.
+- Navy typography, lime-green numeric labels, white cards, and a soft gray background.
+
+This is **not** documented as a generic article; the screenshot confirms an event/workshop-oriented content experience.
+
+## Implementation evidence
+
+The screenshot confirms layout and visual treatment, but it does not reveal the source framework, scripts, form behavior, or deployment details. The live page was not available for detailed automated inspection when this case was updated.
+
+## Screenshot
+
+![Six-card workshop agenda section](../screenshots/summer-pricing-workshop.png)
+
+## Developer contribution
+
+Marcus Castro identified the page as part of his HQBeds web development portfolio. Specific engineering ownership and measured outcomes will be documented when supported by source review.
+
+[← Back to showcase](../README.md)

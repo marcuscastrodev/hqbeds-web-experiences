@@ -1,24 +1,39 @@
-# Independent Hospitality Report 2026 | Lead-Generation Landing Page
+# Independent Hospitality Report 2026 | Research & Lead Generation
 
-**Category:** Content marketing · Research report · Lead generation
+**Type:** Rich-content landing page · Research storytelling · Email lead capture
 
-**Live page:** [Panorama da Hotelaria Independente 2026](https://www.hqbeds.com.br/panorama-da-hotelaria-independente-2026)
+**Published page:** [Panorama da Hotelaria Independente 2026](https://www.hqbeds.com.br/panorama-da-hotelaria-independente-2026)
 
-## Business context
-HQBeds published a sector report aimed at independent hospitality operators in Brazil. The landing page offers a downloadable PDF and introduces the research's themes.
+## Business challenge
 
-## Observed page experience
-The page has a report-oriented hero, a prominent form to request the free PDF by email, highlighted research indicators, thematic summaries, audience segmentation, and repeated calls to download the report.
+Present a hospitality industry report clearly enough to establish its value and encourage visitors to request the full PDF.
 
-## Portfolio relevance
-A strong example of building an information-rich landing page around a single conversion goal. It combines editorial hierarchy, data-led storytelling, visual proof points, and form placement.
+## Observed experience
 
-## What still needs confirmation
-- Exact frontend implementation and CMS/hosting details.
-- Whether form processing and delivery automation were implemented by the developer or another team.
-- Internal attribution of research, design, content, and implementation.
-- Any conversion or campaign performance metrics approved for public use.
+The screenshots supplied by the developer show three complementary page sections:
 
-**Attribution:** Project credited to Marcus Castro as a portfolio contribution; no unverified conversion improvements or sole-authorship claims are made.
+1. **Hero and form:** dark-navy background, high-contrast headline, explanatory copy, research highlights, and a prominent multi-step form with a visual progress indicator.
+2. **Research takeaways:** a light section with five insight cards and a contrasting conclusion card, using consistent iconography and headings.
+3. **Inside the report:** six numbered topics alongside a graphical preview of the research themes, switching to a dark background to create section rhythm.
 
-[Back to portfolio](../README.md)
+The publicly accessible page also describes the report audience and repeats the download CTA.
+
+## Implementation evidence
+
+- The web page is built in HTML and displays responsive components and conversion-focused layouts.
+- Its rendered markup exposes a **HubSpot portal identifier** near the form. This is evidence of a HubSpot-related embedded form component, but not proof that Marcus personally implemented that integration.
+- The exact framework or CMS implementation, JavaScript modules, and third-party scripts must be verified against the source before claiming them.
+
+## Screenshots
+
+![Research report landing page hero with lead form](../screenshots/hospitality-report-hero.png)
+
+![Research insights presented as a responsive card grid](../screenshots/hospitality-report-insights.png)
+
+![Report chapter overview and graphical preview](../screenshots/hospitality-report-content.png)
+
+## Developer contribution
+
+This case is attributed to Marcus Castro as portfolio work. Specific implementation responsibilities and any approved performance metrics can be added after verification.
+
+[← Back to showcase](../README.md)

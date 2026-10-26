@@ -25,7 +25,7 @@ The screenshot confirms layout and visual treatment, but it does not reveal the 
 
 ## Screenshot
 
-![Six-card workshop agenda section](../screenshots/summer-pricing-workshop.png)
+**Screenshot prepared:** `screenshots/summer-pricing-workshop.png` (pending upload to repository).
 
 ## Developer contribution
 

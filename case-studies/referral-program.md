@@ -1,26 +1,35 @@
-# HQBeds Referral Program | Bilingual Landing Pages
+# HQBeds Referral Program | Portuguese & Spanish Landing Pages
 
-**Category:** Conversion-oriented campaign pages · Portuguese and Spanish
+**Type:** Referral marketing · Multilingual landing pages · Conversion experience
 
-**Live pages:**
-- [Portuguese — Programa de Indicação](https://conteudo.hqbeds.com.br/programa-de-indica%C3%A7%C3%A3o)
-- [Spanish — Programa de Recomendación](https://conteudo.hqbeds.com.br/es/programa-de-recomendacion)
+**Published pages:** [Portuguese](https://conteudo.hqbeds.com.br/programa-de-indica%C3%A7%C3%A3o) · [Spanish](https://conteudo.hqbeds.com.br/es/programa-de-recomendacion)
 
-## Business context
-A referral initiative to introduce HQBeds to additional hospitality properties. The Brazilian Portuguese public page communicates how referrals work, who can participate, the reward model, and how to submit an indication.
+## Business challenge
 
-## Observed page experience
-The Portuguese page features a prominent hero and calls to action, an explanation of the process in three steps, benefits, eligibility rules, payout details, and a conversion form.
+Communicate a referral reward in a way that is fast to understand and encourages partners or existing contacts to recommend lodging businesses to HQBeds. The same commercial proposition is presented in Brazilian Portuguese and Spanish.
 
-## Portfolio relevance
-This work illustrates the design and development of a business-oriented landing-page experience: clear information hierarchy, conversion paths, content structure, and support for multilingual campaign variants.
+## Visual and UX approach
 
-## What still needs confirmation
-- The exact implementation stack and third-party form integrations.
-- The developer's specific responsibilities in design, coding, and deployment.
-- A visual inspection of the Spanish variant; its link was provided, but its live content could not be independently retrieved.
-- Any measured outcomes, if approved for public disclosure.
+The supplied Spanish screenshot confirms:
 
-**Attribution:** Project credited to Marcus Castro as a portfolio contribution; this case does not claim exclusive authorship of all copy, design, integrations, or business results.
+- A large editorial headline, **“Recomendaste, contrató, ganaste.”**, with a green accent on the outcome.
+- Two clear hero actions: **“Quiero recomendar”** and **“Cómo funciona”**.
+- A visual reward summary with approval/payment status cards.
+- A restrained navy, white, and lime color system with rounded buttons and cards.
+- A three-step explanation and referral-submission journey, also evident on the public Portuguese page.
 
-[Back to portfolio](../README.md)
+## Implementation evidence
+
+These are live HTML web pages. The Portuguese page publicly exposes embedded content and tracking, while an image asset is served from a website CDN. The precise page-builder or framework, custom CSS/JavaScript ownership, and form integration require source inspection before being attributed to a specific tool.
+
+**Confirmed competencies illustrated:** landing page development, conversion-first UX, information hierarchy, localization, CTA placement, and responsive design considerations.
+
+## Screenshot
+
+![Spanish referral page, desktop](../screenshots/referral-es-desktop.png)
+
+## Developer contribution
+
+Marcus Castro identified these pages as part of his HQBeds web development work. Specific coding and integration tasks will be itemized after examining the original source, rather than implying sole responsibility for every design and marketing component.
+
+[← Back to showcase](../README.md)

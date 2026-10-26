@@ -26,7 +26,7 @@ These are live HTML web pages. The Portuguese page publicly exposes embedded con
 
 ## Screenshot
 
-![Spanish referral page, desktop](../screenshots/referral-es-desktop.png)
+**Screenshot prepared:** `screenshots/referral-es-desktop.png` (pending upload to repository).
 
 ## Developer contribution
 

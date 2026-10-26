@@ -1,14 +1,17 @@
-# HQBeds screenshots
+# Screenshots
 
-Screenshots are intentionally pending. Please add approved captures of the publicly accessible landing pages, after confirming that publication is permitted.
+Five **developer-provided desktop screenshots** are ready for upload to this public showcase.
 
-Suggested filenames:
-- `referral-pt-desktop.png`
-- `referral-es-desktop.png`
-- `hospitality-report-2026-desktop.png`
-- `summer-pricing-2027-desktop.png`
-- Optional mobile versions for each page.
+| File | Page / section |
+| --- | --- |
+| `referral-es-desktop.png` | Spanish Referral Program hero |
+| `hospitality-report-hero.png` | Independent Hospitality Report 2026 hero and lead form |
+| `hospitality-report-insights.png` | Research insights card grid |
+| `hospitality-report-content.png` | Report topic overview |
+| `summer-pricing-workshop.png` | Summer Pricing 2027 workshop agenda |
 
-Do not upload internal analytics, account details, unpublished assets, proprietary source code, or customer information.
+These filenames are used in the case studies. After the image files are uploaded into this directory, the Markdown gallery can be enabled.
 
-[Back to portfolio](../README.md)
+The screenshots were supplied by Marcus Castro. The original websites and visual assets belong to HQBeds; confirm permission to redistribute the images in a public portfolio.
+
+[← Back to overview](../README.md)

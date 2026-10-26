@@ -26,11 +26,7 @@ The publicly accessible page also describes the report audience and repeats the 
 
 ## Screenshots
 
-![Research report landing page hero with lead form](../screenshots/hospitality-report-hero.png)
-
-![Research insights presented as a responsive card grid](../screenshots/hospitality-report-insights.png)
-
-![Report chapter overview and graphical preview](../screenshots/hospitality-report-content.png)
+**Screenshots prepared, pending upload:** `hospitality-report-hero.png`, `hospitality-report-insights.png`, and `hospitality-report-content.png` in the `screenshots/` directory.
 
 ## Developer contribution
 

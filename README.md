@@ -34,21 +34,27 @@ These projects explore three different conversion journeys within the hospitalit
 
 A localized referral journey combining a benefit-led hero, action-oriented CTAs, and a reward explanation. The Portuguese and Spanish experiences are documented together to highlight how messaging and presentation adapt across audiences.
 
-[Read the referral case](case-studies/referral-program.md) · [Screenshot gallery](screenshots/referral-program/)
+![HQBeds referral program Spanish hero](screenshots/referral-program/01-es-hero.webp)
+
+[Read the referral case](case-studies/referral-program.md) · [Full screenshot gallery](screenshots/referral-program/)
 
 ### 02 — Independent Hospitality Report 2026
 
 A research-led lead generation page that translates an industry report into a readable overview, supporting insights, and a download form.
 
-[Read the report case](case-studies/hospitality-report-2026.md) · [Screenshot gallery](screenshots/hospitality-report-2026/)
+![HQBeds Independent Hospitality Report 2026](screenshots/hospitality-report-2026/01-hero-form.webp)
+
+[Read the report case](case-studies/hospitality-report-2026.md) · [Full screenshot gallery](screenshots/hospitality-report-2026/)
 
 ### 03 — Summer Pricing 2027
 
 An educational campaign page that communicates a workshop offer through clear scheduling details, key topics, and registration elements.
 
-[Read the workshop case](case-studies/summer-pricing-2027.md) · [Screenshot gallery](screenshots/summer-pricing-2027/)
+![HQBeds Summer Pricing 2027 registration landing page](screenshots/summer-pricing-2027/01-hero-form.webp)
 
-*The galleries are being organized using real page captures. Images will be embedded after the approved files are uploaded.*
+[Read the workshop case](case-studies/summer-pricing-2027.md) · [Full screenshot gallery](screenshots/summer-pricing-2027/)
+
+*The screenshots are genuine captures of the published landing-page interfaces. They do not represent measured campaign results.*
 
 ## What these projects demonstrate
 

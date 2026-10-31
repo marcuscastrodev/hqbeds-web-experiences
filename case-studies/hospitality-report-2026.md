@@ -24,9 +24,27 @@ The publicly accessible page also describes the report audience and repeats the 
 - Its rendered markup exposes a **HubSpot portal identifier** near the form. This is evidence of a HubSpot-related embedded form component, but not proof that Marcus personally implemented that integration.
 - The exact framework or CMS implementation, JavaScript modules, and third-party scripts must be verified against the source before claiming them.
 
-## Screenshots
+## Visual gallery
 
-**Screenshots prepared, pending upload:** `hospitality-report-hero.png`, `hospitality-report-insights.png`, and `hospitality-report-content.png` in the `screenshots/` directory.
+### Research offer and lead form
+
+The hero combines a research-led headline, key value points, and a prominent multi-step lead form.
+
+![HQBeds Independent Hospitality Report hero and form](../screenshots/hospitality-report-2026/01-hero-form.webp)
+
+### Key insights
+
+A card-based section makes the report's main themes easier to scan.
+
+![HQBeds Independent Hospitality Report insights](../screenshots/hospitality-report-2026/02-key-insights.webp)
+
+### Inside the report
+
+A numbered topic overview outlines the material's contents alongside a graphic summary.
+
+![HQBeds Independent Hospitality Report contents](../screenshots/hospitality-report-2026/03-report-content.webp)
+
+*The captures illustrate the user interface; lead-generation results have not been independently verified.*
 
 ## Developer contribution
 

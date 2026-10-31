@@ -24,9 +24,33 @@ These are live HTML web pages. The Portuguese page publicly exposes embedded con
 
 **Confirmed competencies illustrated:** landing page development, conversion-first UX, information hierarchy, localization, CTA placement, and responsive design considerations.
 
-## Screenshot
+## Visual gallery
 
-**Screenshot prepared:** `screenshots/referral-es-desktop.png` (pending upload to repository).
+### Spanish landing page — hero
+
+The Spanish experience communicates the referral value proposition through a prominent headline, two calls to action, and a visual reward preview.
+
+![HQBeds referral program Spanish hero](../screenshots/referral-program/01-es-hero.webp)
+
+### Spanish landing page — reward explanation
+
+A dedicated section explains the reward and payment process.
+
+![HQBeds Spanish referral reward section](../screenshots/referral-program/02-es-reward.webp)
+
+### Portuguese landing page — hero
+
+The Portuguese experience adapts the message and the reward presentation to its audience.
+
+![HQBeds referral program Portuguese hero](../screenshots/referral-program/03-pt-hero.webp)
+
+### Portuguese landing page — reward explanation
+
+A structured breakdown presents the reward and installment schedule.
+
+![HQBeds Portuguese referral reward section](../screenshots/referral-program/04-pt-reward.webp)
+
+*Screenshots document the published interface, not verified conversion outcomes.*
 
 ## Developer contribution
 

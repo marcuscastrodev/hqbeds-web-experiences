@@ -23,9 +23,21 @@ This is **not** documented as a generic article; the screenshot confirms an even
 
 The screenshot confirms layout and visual treatment, but it does not reveal the source framework, scripts, form behavior, or deployment details. The live page was not available for detailed automated inspection when this case was updated.
 
-## Screenshot
+## Visual gallery
 
-**Screenshot prepared:** `screenshots/summer-pricing-workshop.png` (pending upload to repository).
+### Workshop hero and registration
+
+A campaign-focused hero pairs the educational offer and scheduling information with a prominent registration form.
+
+![HQBeds Summer Pricing 2027 hero and form](../screenshots/summer-pricing-2027/01-hero-form.webp)
+
+### Workshop topics
+
+Numbered content cards break the learning agenda into scannable topics.
+
+![HQBeds Summer Pricing workshop topics](../screenshots/summer-pricing-2027/02-workshop-topics.webp)
+
+*The captures show the landing-page design; registration outcomes have not been independently verified.*
 
 ## Developer contribution
 

@@ -1,56 +1,79 @@
-# HQBeds | Web Experiences & Landing Pages
+<div align="center">
 
-### Conversion-focused web development for hospitality
+# HQBeds — Web experiences & landing pages
 
-A portfolio case study by **Marcus Castro** showcasing landing pages and web experiences developed for **HQBeds**, a hospitality technology company.
+### Conversion-focused development for hospitality
 
-> This is a **public project showcase**, not the HQBeds application source repository. Original webpages remain hosted by HQBeds. No proprietary source code, company credentials, internal data, or campaign performance figures are reproduced here.
+**Responsive interfaces · Multilingual experiences · Lead generation · UX/UI**
 
-## Selected projects
+A collection of web projects by **Marcus Castro**, combining frontend development, content strategy, and business-oriented user journeys.
 
-| Project | Purpose | Live page | Case study |
-| --- | --- | --- | --- |
-| **Referral Program (PT/ES)** | Referral acquisition and conversion in two languages | [Português](https://conteudo.hqbeds.com.br/programa-de-indica%C3%A7%C3%A3o) · [Español](https://conteudo.hqbeds.com.br/es/programa-de-recomendacion) | [Read case](case-studies/referral-program.md) |
-| **Independent Hospitality Report 2026** | Research-led lead generation and content download | [Live page](https://www.hqbeds.com.br/panorama-da-hotelaria-independente-2026) | [Read case](case-studies/hospitality-report-2026.md) |
-| **Free class: OTAs & Direct Bookings** | Educational class landing page and lead acquisition | [Live page](https://conteudo.hqbeds.com.br/aula-gratuita-otas-e-reservas-diretas) | [Read case](case-studies/otas-direct-bookings-class.md) |
-| **Summer Pricing 2027** | Educational campaign for seasonal hospitality planning | [Live page](https://www.hqbeds.com.br/alta-temporada-comeca-agora--como-montar-seu-tarifario-de-verao-2027) | [Read case](case-studies/summer-pricing-2027.md) |
+[Explore cases](#selected-work) · [Live websites](#selected-work) · [GitHub profile](https://github.com/marcuscastrodev)
 
-**Five public URLs, four portfolio case studies:** the referral program is represented by its Portuguese and Spanish variants.
+</div>
 
-## Why this work matters
+> **Independent portfolio showcase.** HQBeds owns the original brand, web pages, and creative assets. This repository does not contain production code, credentials, customer information, or confidential performance data.
 
-The projects show how web development supports distinct business journeys:
+## About the work
 
-- **Customer acquisition:** referral mechanics explained through a dedicated landing page and submission flow.
-- **Lead generation:** long-form research distilled into an accessible download experience.
-- **Educational acquisition:** a free class on OTAs and direct bookings with a dedicated destination.
-- **Content discovery:** a seasonal education topic presented as a dedicated campaign destination.
-- **Localization:** related landing page experiences for Portuguese- and Spanish-speaking audiences.
+These projects explore three different conversion journeys within the hospitality industry: **referrals**, **research-driven lead acquisition**, and **educational event registration**. Each landing page presents a distinct information architecture while keeping the user’s next action clear.
 
-## Skills demonstrated
+## Selected work
 
-**Web development · Responsive UI · Information architecture · Conversion-oriented interface design · Landing page implementation · Multilingual web content · Digital product thinking**
+| Project | Focus | Live experience | Case study |
+| :--- | :--- | :--- | :--- |
+| **01 — Referral Program (PT/ES)** | Multilingual acquisition, conversion-focused messaging and reward explanation | [Português](https://conteudo.hqbeds.com.br/programa-de-indica%C3%A7%C3%A3o) · [Español](https://conteudo.hqbeds.com.br/es/programa-de-recomendacion) | [View case](case-studies/referral-program.md) |
+| **02 — Independent Hospitality Report 2026** | Research storytelling, lead capture and content hierarchy | [Open page](https://www.hqbeds.com.br/panorama-da-hotelaria-independente-2026) | [View case](case-studies/hospitality-report-2026.md) |
+| **03 — Summer Pricing 2027** | Educational workshop, registration and information design | [Open page](https://www.hqbeds.com.br/alta-temporada-comeca-agora--como-montar-seu-tarifario-de-verao-2027) | [View case](case-studies/summer-pricing-2027.md) |
 
-Specific languages, frameworks, form integrations, and implementation ownership will be documented **only after confirmation**. This avoids attributing another team's implementation or inventing technical details.
+**Three case studies, four public landing-page URLs.** The referral program includes Portuguese and Spanish variants.
 
-## Project gallery
+## Visual walkthrough
 
-See [screenshots/](screenshots/README.md) for the planned gallery. Approved screenshots will be added after review.
+### 01 — Referral Program
+
+A localized referral journey combining a benefit-led hero, action-oriented CTAs, and a reward explanation. The Portuguese and Spanish experiences are documented together to highlight how messaging and presentation adapt across audiences.
+
+[Read the referral case](case-studies/referral-program.md) · [Screenshot gallery](screenshots/referral-program/)
+
+### 02 — Independent Hospitality Report 2026
+
+A research-led lead generation page that translates an industry report into a readable overview, supporting insights, and a download form.
+
+[Read the report case](case-studies/hospitality-report-2026.md) · [Screenshot gallery](screenshots/hospitality-report-2026/)
+
+### 03 — Summer Pricing 2027
+
+An educational campaign page that communicates a workshop offer through clear scheduling details, key topics, and registration elements.
+
+[Read the workshop case](case-studies/summer-pricing-2027.md) · [Screenshot gallery](screenshots/summer-pricing-2027/)
+
+*The galleries are being organized using real page captures. Images will be embedded after the approved files are uploaded.*
+
+## What these projects demonstrate
+
+- **Frontend and responsive UI:** information hierarchy, mobile considerations, interface consistency.
+- **Conversion-focused UX:** offers, calls to action, supporting content and registration journeys.
+- **Localization:** Portuguese and Spanish adaptations for a shared referral proposition.
+- **Information architecture:** transforming complex research or educational content into clear page sections.
+- **Marketing and product thinking:** aligning the interface with the business objective and user intent.
+
+Implementation ownership, specific frameworks, form integrations, and measured results will be attributed only when verified.
 
 ## Documentation
 
 - [Referral Program — PT/ES](case-studies/referral-program.md)
 - [Independent Hospitality Report 2026](case-studies/hospitality-report-2026.md)
 - [Summer Pricing 2027](case-studies/summer-pricing-2027.md)
-- [Free class: OTAs & Direct Bookings](case-studies/otas-direct-bookings-class.md)
+- [Screenshot directory](screenshots/README.md)
 - [Project notes and permissions](docs/project-notes.md)
 
-## My background
+## About the developer
 
-I am **Marcus Castro**, a web and full-stack developer with a background in digital marketing and project management. My work connects technical execution with usable interfaces, business objectives, and content strategy.
+I’m **Marcus Castro**, a web developer with a background in marketing strategy and project management. I build digital experiences with attention to interface quality, technical execution, and business goals.
 
-[GitHub profile](https://github.com/marcuscastrodev) · [MOVA full-stack case study](https://github.com/marcuscastrodev/mova-showcase)
+[More projects on GitHub](https://github.com/marcuscastrodev) · [MOVA full-stack case](https://github.com/marcuscastrodev/mova-showcase)
 
 ---
 
-*HQBeds is the owner of its respective brand and website content. This independent portfolio showcase is not an official HQBeds repository.*
+*This portfolio repository is independently maintained and is not an official HQBeds source-code distribution.*

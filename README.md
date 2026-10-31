@@ -12,9 +12,10 @@ A portfolio case study by **Marcus Castro** showcasing landing pages and web exp
 | --- | --- | --- | --- |
 | **Referral Program (PT/ES)** | Referral acquisition and conversion in two languages | [Português](https://conteudo.hqbeds.com.br/programa-de-indica%C3%A7%C3%A3o) · [Español](https://conteudo.hqbeds.com.br/es/programa-de-recomendacion) | [Read case](case-studies/referral-program.md) |
 | **Independent Hospitality Report 2026** | Research-led lead generation and content download | [Live page](https://www.hqbeds.com.br/panorama-da-hotelaria-independente-2026) | [Read case](case-studies/hospitality-report-2026.md) |
+| **Free class: OTAs & Direct Bookings** | Educational class landing page and lead acquisition | [Live page](https://conteudo.hqbeds.com.br/aula-gratuita-otas-e-reservas-diretas) | [Read case](case-studies/otas-direct-bookings-class.md) |
 | **Summer Pricing 2027** | Educational campaign for seasonal hospitality planning | [Live page](https://www.hqbeds.com.br/alta-temporada-comeca-agora--como-montar-seu-tarifario-de-verao-2027) | [Read case](case-studies/summer-pricing-2027.md) |
 
-**Four public URLs, three portfolio case studies:** the referral program is represented by its Portuguese and Spanish variants.
+**Five public URLs, four portfolio case studies:** the referral program is represented by its Portuguese and Spanish variants.
 
 ## Why this work matters
 
@@ -22,6 +23,7 @@ The projects show how web development supports distinct business journeys:
 
 - **Customer acquisition:** referral mechanics explained through a dedicated landing page and submission flow.
 - **Lead generation:** long-form research distilled into an accessible download experience.
+- **Educational acquisition:** a free class on OTAs and direct bookings with a dedicated destination.
 - **Content discovery:** a seasonal education topic presented as a dedicated campaign destination.
 - **Localization:** related landing page experiences for Portuguese- and Spanish-speaking audiences.
 
@@ -40,6 +42,7 @@ See [screenshots/](screenshots/README.md) for the planned gallery. Approved scre
 - [Referral Program — PT/ES](case-studies/referral-program.md)
 - [Independent Hospitality Report 2026](case-studies/hospitality-report-2026.md)
 - [Summer Pricing 2027](case-studies/summer-pricing-2027.md)
+- [Free class: OTAs & Direct Bookings](case-studies/otas-direct-bookings-class.md)
 - [Project notes and permissions](docs/project-notes.md)
 
 ## My background

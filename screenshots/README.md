@@ -1,17 +1,13 @@
-# Screenshots
+# HQBeds screenshot galleries
 
-Five **developer-provided desktop screenshots** are ready for upload to this public showcase.
+The public showcase is organized into three separate galleries. The planned images are not yet uploaded.
 
-| File | Page / section |
-| --- | --- |
-| `referral-es-desktop.png` | Spanish Referral Program hero |
-| `hospitality-report-hero.png` | Independent Hospitality Report 2026 hero and lead form |
-| `hospitality-report-insights.png` | Research insights card grid |
-| `hospitality-report-content.png` | Report topic overview |
-| `summer-pricing-workshop.png` | Summer Pricing 2027 workshop agenda |
+| Case | Gallery | Planned screenshots |
+| --- | --- | --- |
+| Referral Program PT/ES | [referral-program/](referral-program/) | Spanish hero and rewards; Portuguese hero and rewards |
+| Independent Hospitality Report 2026 | [hospitality-report-2026/](hospitality-report-2026/) | Hero and form; insights; report contents |
+| Summer Pricing 2027 | [summer-pricing-2027/](summer-pricing-2027/) | Hero and registration; workshop topics |
 
-These filenames are used in the case studies. After the image files are uploaded into this directory, the Markdown gallery can be enabled.
+Images must be genuine captures of HQBeds pages. Verify permission to republish them in a public portfolio. Avoid private customer data, internal metrics, and unapproved assets.
 
-The screenshots were supplied by Marcus Castro. The original websites and visual assets belong to HQBeds; confirm permission to redistribute the images in a public portfolio.
-
-[← Back to overview](../README.md)
+[← Back to HQBeds showcase](../README.md)
